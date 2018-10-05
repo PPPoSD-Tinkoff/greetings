@@ -14,7 +14,7 @@ Copyright © 2017 [Arthur Khashaev]. See [license] for details.
 [Arthur Khashaev]: https://khashaev.ru
 [license]: LICENSE.txt
 
-[travis-url]: https://travis-ci.org/PPPoSD-2017/greetings
-[travis-badge]: https://travis-ci.org/PPPoSD-2017/greetings.svg?branch=master
-[coverage-image]: https://codecov.io/gh/PPPoSD-2017/greetings/branch/master/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/PPPoSD-2017/greetings
+[travis-url]: https://travis-ci.org/PPPoSD-Tinkoff/greetings
+[travis-badge]: https://travis-ci.org/PPPoSD-Tinkoff/greetings.svg?branch=master
+[coverage-image]: https://codecov.io/gh/PPPoSD-Tinkoff/greetings/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/PPPoSD-Tinkoff/greetings
